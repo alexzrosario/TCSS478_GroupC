@@ -1,3 +1,4 @@
+For an overview of this project please read: Group C Report - TCSS 478.pdf
 Assumes 'AML_datasets.RData' is in the working directory.
 
 'proj_models_v03_14.ipynb'
